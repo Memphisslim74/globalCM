@@ -2,6 +2,8 @@
 
 Static HTML website prepared for Cloudflare Pages.
 
+Live Pages project: https://globalcm.pages.dev/
+
 ## Cloudflare Pages settings
 
 - Framework preset: None
